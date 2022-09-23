@@ -1,0 +1,24 @@
+.titulo-2{
+color: red;
+}
+*{
+    color:
+}
+h1{
+    color:yellow;
+}
+#id-element{
+    color: blue;
+}
+[ran="ran"] {
+    color: aqua;
+}
+h2 p{
+    color: blue;
+}
+h2 b{
+    color: blueviolet;
+}
+h2:hover{
+    color: black;
+}

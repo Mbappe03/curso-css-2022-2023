@@ -1,0 +1,16 @@
+div{
+    padding: 30px;
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+}
+:root{
+    --color-rojo-claro:#f44;
+    --color-azul-claro:#66f;
+}
+.container{
+    background: var(--color-rojo-claro);
+}
+.container-2{
+    background: var(--color-azul-claro);
+}

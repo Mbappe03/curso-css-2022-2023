@@ -1,0 +1,40 @@
+.texto{
+    padding: 20px;
+}
+.texto::first-line{
+    color: blue;
+    font-size: 2em;
+}
+form{
+    margin: 100px auto;
+    display: block;
+    background: #555;
+    padding: 100px;
+    width: 50%;
+}
+input{
+    padding: 6px;
+    width: 100%;
+}
+input::placeholder{
+    color: red;
+    font-size: 1.4em;
+    background-color: yellow;
+}
+input::selection{
+    color: red;
+    font-size: 1.4em;
+    background: yellow;
+}
+b{
+    padding: 6px;
+    width: 100%;
+}
+b::before{
+    content:"me suscribi ";
+    color: red;
+}
+b::after{
+    content: "todo tendencias";
+    color: red;
+}

@@ -1,0 +1,18 @@
+.color-red{
+    color: red;
+}
+h1{
+    color: blue;
+}
+.color-red{
+    color: green;
+}
+[rancio="color-blue"]{
+    color: blue;
+}
+#color-yellow{
+    color: yellow;
+}
+h1{
+    color:grey!important
+}

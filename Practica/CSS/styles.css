@@ -1,0 +1,95 @@
+.box{
+    background:#fff;
+    width: 800px;
+    height: 800px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title{
+    text-align: center;
+    padding: 20px;
+    margin: 5px ;
+}
+.body{
+    background-image:url("http://lofrev.net/wp-content/photos/2017/05/Real-Madrid-Logo-2-1024x768.jpg") ;
+}
+.nav__responsive-ul{
+    display: none;
+}
+.nav{
+    background: #00fa9a;
+}
+.nav__li{
+    display: inline-block;
+    padding: 12px;
+    color:#3cb371 ;
+}
+.nav__li:hover{
+    color:#fff;
+}
+.nav__li a{
+    color:#3cb371 ;
+    text-decoration: none;
+}
+.nav__li:hover>a{
+    color: #fff;
+}
+.nav__li i{
+    box-sizing: border-box;
+    text-align: right;
+    margin-right: 5px;
+}
+.label{
+    margin: 15px;
+}
+.input{
+    border:none;
+    border-bottom: 1px solid gray;
+    outline: none;
+    width: 700px;
+    margin: 20px;
+}
+.input::placeholder{
+    color:#00ff7f ;
+}
+.caja2{
+    width: 90px;
+    height: 20px;
+    background: #00ff7f;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+}
+.titulo2{
+    padding: 5px;
+    margin: 10px;
+}
+
+.caja3{
+    width: 750px;
+    height: 500px;
+    background: #00fa9a;
+    box-shadow: 30px 20px 10px 0 #5284f3;
+}
+.caja3{
+    margin: 20px 10px;
+}
+
+.h1{
+    padding: 25px;
+    margin: 5px;
+}
+
+.cont{
+    width: 100%;
+}
+.cont img{
+    object-fit: cover;
+    float: right;
+    width: 400px;
+    margin: 5px;
+}
+.p{
+    margin: 10px;
+}

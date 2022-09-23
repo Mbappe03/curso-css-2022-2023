@@ -1,0 +1,31 @@
+.flex-container{
+    display: flex;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.flex-item{
+    background-color: #248;
+    color: #fff;
+    margin: 5px;
+    min-width: 150px;
+    text-align: center;
+    height: 100px;
+}
+.flex-item-orange{
+    background-color: orange;
+    color: #fff;
+    margin: 5px;
+    min-width: 150px;
+    text-align: center;
+    height: 100px;
+    flex-basis: 300px;
+}
+.flex-item-green{
+    background-color: green;
+    color: #fff;
+    margin: 5px;
+    min-width: 150px;
+    text-align: center;
+    height: 100px;
+}

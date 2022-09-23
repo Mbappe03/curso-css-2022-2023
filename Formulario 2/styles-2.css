@@ -1,0 +1,81 @@
+.body{
+    background-color: #ece9e9
+}
+.title{
+    color: white;
+    font-size: 2.5rem;
+    padding-top: 160px;
+    text-align: center;
+    margin-left: 55px;
+    margin-right: 105px;
+    margin-top: 185px;
+  
+    
+   
+    
+    
+}
+.box{
+    background-color: cornflowerblue;
+    width: 520px;
+    height: 500px;
+    border-radius: 5px;
+}
+.email{
+    color: white;
+   padding: 120px;
+   text-align: center;
+   margin-left: 25px;
+   margin-right: 105px;
+    
+    
+}
+.number{
+    color: white;
+   padding: 120px;
+   text-align: center;
+   margin-left: 45px;
+   margin-right: 105px;
+    
+}
+.box-2{
+    background-color: white;
+    position: relative;
+    bottom: 500px;
+    left: 400px;
+    width: 520px;
+    height: 500px;
+   margin-left: 70px;
+   margin-right: 70px;
+   border-radius: 5px;
+   overflow: auto;
+
+}
+.input{
+    color: black;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin: 20px;
+    width: 450px;
+    outline: none;
+   
+}
+.button{
+    color: white;
+    background-color: #5284f3;
+    border-radius: 20px;
+    border: none;
+    width: 120px;
+    height:30px;
+    margin-left: 360px;
+    
+
+}
+.title-2{
+    margin: 20px;
+}
+.label{
+    margin: 20px;
+    color: black;
+}
+

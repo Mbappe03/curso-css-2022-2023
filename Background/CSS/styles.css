@@ -1,0 +1,12 @@
+.container{
+    padding: 30px;
+    background: #86f;
+    width: 350px;
+    height: 200px;
+    margin: 40px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoQopdxbN5hqf37Ck7xsNpsNSzNXh0dQePF_b_2qIB&s);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+    border: 10px solid ;
+}

@@ -1,0 +1,49 @@
+.caja1{
+    height: 200px;
+    width: 200px;
+    background: steelblue;
+    transition: background 1s, height 1s, width 1s;
+    border: 3px solid red;
+}
+.caja1:hover{
+    background: red;
+    height: 300px;
+    width: 300px;
+    border: 3px solid blue;
+}
+.caja2{
+    margin: 30px;
+    display: block;
+}
+.caja2:link{
+    color: red;
+}
+.caja2:visited{
+    color: aqua;
+}
+.caja3{
+    width: 250px;
+    height: 250px;
+    background: red;
+    margin: 25px;
+    transition: all 1s;
+}
+.caja3:active{
+    background: blue;
+    width: 600px;
+    
+}
+.input{  
+
+    margin: 25px;
+    transition: all 1s;
+
+}
+.input:focus{
+    background: blue;
+    width: 600px;
+}
+.caja4:lang(en){
+    background: red;
+    padding: 20px;
+}

@@ -1,0 +1,65 @@
+.body{
+    background: linear-gradient(to right, #95d9f0, #ace9ea);
+}
+.box{
+    background-color: #ffffff;
+    border-right: 30px solid #5284f3;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+    
+   
+}
+.button{
+    background-color: #5284f3;
+    color: white;
+    border: 10px;
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 55px;
+    display: block;
+    border-radius: 5px;
+    cursor: pointer;
+    
+
+    
+}
+.title{
+    color: #5284f3;
+    padding: 20px;
+   height: 10px;
+   margin-left: 25px;
+   
+    
+}
+.text-{
+    background-color: #e2e1e1;
+    margin-top: 15px;
+    margin-left: 55px;
+    margin-bottom: 25px;
+    border-radius: 3px;
+    outline: 30px;
+    width: 400px;
+    height: 30px;
+    
+}
+.usuario{
+   margin: 10px 55px 10px 55px;
+    
+}
+.password{
+    margin:  10px 55px 10px 55px;
+}
+.check{
+    margin-left: 55px;
+    
+}
+
+.enlaces{
+    margin-left: 170px;
+    
+}
